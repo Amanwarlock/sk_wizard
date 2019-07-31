@@ -1,0 +1,182 @@
+/* 1 */
+{
+	"_id" : "FC0",
+	"whId" : "WMF0",
+	"name" : "Blr Electronics -WMF0",
+	"fcConfig" : [
+		{
+			"_id" : ObjectId("5ccad14f18aa862c02c5ce9f"),
+			"categoryIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 2 */
+{
+	"_id" : "FC1",
+	"whId" : "WMF1",
+	"name" : "SK FMCG Warehouse - WMF1",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 3 */
+{
+	"_id" : "FC2",
+	"whId" : "WMF2",
+	"name" : "Hyderabad Warehouse - WMF2",
+	"fcConfig" : [
+		{
+			"_id" : ObjectId("5ccbf348fd771520d5145d78"),
+			"categoryIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 4 */
+{
+	"_id" : "FC3",
+	"whId" : "WMF3",
+	"name" : "SK FMCG Warehouse - (KPB) - WMF3",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 5 */
+{
+	"_id" : "FC4",
+	"whId" : "WMF4",
+	"name" : "Blr Electronics (MI) -WMF4",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	]
+},
+
+/* 6 */
+{
+	"_id" : "FC5",
+	"whId" : "WMF5",
+	"name" : "Bhiwandi Warehouse - WMF5",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 7 */
+{
+	"_id" : "FC6",
+	"whId" : "WMF6",
+	"name" : "Walmart Agra",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : false
+},
+
+/* 8 */
+{
+	"_id" : "FC7",
+	"whId" : "WMF7",
+	"name" : "Testing Walmart",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 9 */
+{
+	"_id" : "FC8",
+	"whId" : "WMF8",
+	"name" : "Testing Mahadev Franchise",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+},
+
+/* 10 */
+{
+	"_id" : "FC9",
+	"whId" : "WMF13",
+	"name" : "Manoj",
+	"fcConfig" : [
+		{
+			"state" : "All States",
+			"isAllowed" : true,
+			"_id" : ObjectId("5c8a0496d210c104d681f65f"),
+			"rfIds" : [ ],
+			"rmfIds" : [ ],
+			"town" : "All Towns",
+			"district" : "All Districts"
+		}
+	],
+	"isSkWarehouse" : true
+}
